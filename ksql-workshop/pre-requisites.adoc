@@ -53,6 +53,7 @@ git clone https://github.com/confluentinc/examples.git
 ** You really do need to do this
 
 3. Pull all required docker images—this will take a while!
+** Go into the folder `ksql-workshop`, and run: 
 +
 [source,bash]
 ----
